@@ -15,7 +15,7 @@ header: Lorem ipsum
 # Title
 
 Name
-25.07.2024
+30.07.2024
 
 ## Two columns
 <!-- _class: cols-2 -->
@@ -71,7 +71,7 @@ Integer auctor volutpat semper. Donec tincidunt massa ac ligula posuere convalli
 <!-- _header: \  *nunc* *nec* *sapien* **consequat** *ante*-->
 
 
-**Charge of QC variation with BR and PC**
+**Nullam posuere dolor si**
 
 Nullam blandit ipsum id urna scelerisque, quis cursus ipsum pharetra. Nullam posuere dolor sit amet lectus scelerisque, sit amet mattis mauris cursus. Aenean sed bibendum libero, ac finibus lectus. Vivamus molestie quis justo sed suscipit. Nulla tempor pretium elit, et vestibulum enim aliquet et. Aliquam pharetra felis non ipsum pharetra mollis id vel tortor. Nulla ac tempor mi, vitae venenatis orci. Duis sed viverra nisi, nec feugiat velit. Proin et feugiat ipsum.$^1$
 
